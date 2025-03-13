@@ -10,7 +10,7 @@ public class ChampiPositionAleatoire : MonoBehaviour
     void Start()
     {
         
-        float Aleatoire = Random.value(0f, 1f);
+        /*float Aleatoire = Random.value(0f, 1f);
 
         if(Aleatoire > 0.5f) {
 
@@ -22,7 +22,7 @@ public class ChampiPositionAleatoire : MonoBehaviour
 
             transform.position = _positionCaisse;
             
-        }
+        }*/
 
     }
 
